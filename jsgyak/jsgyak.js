@@ -7,4 +7,4 @@ for (i = 0; i<array.length; i++){
 	}
 
 
-alert(upper);
+console.log(upper);
